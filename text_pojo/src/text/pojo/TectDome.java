@@ -11,7 +11,10 @@ public class TectDome {
         System.out.println("88888888");
         System.out.println("88888888");
         System.out.println("88888888");
+    }
+    public void text(){
+        int a = 10;
 
-
+        a +=10;
     }
 }
