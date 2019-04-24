@@ -9,6 +9,8 @@ public class TectDome {
         System.out.println("66666666666666");
         System.out.println("77777777");
         System.out.println("88888888");
+        System.out.println("88888888");
+        System.out.println("88888888");
 
 
     }
