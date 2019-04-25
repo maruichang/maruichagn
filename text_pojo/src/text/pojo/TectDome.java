@@ -14,7 +14,6 @@ public class TectDome {
     }
     public void text(){
         int a = 10;
-
         a +=10;
     }
 }
