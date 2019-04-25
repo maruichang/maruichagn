@@ -16,4 +16,10 @@ public class TectDome {
         int a = 10;
         a +=10;
     }
+
+
+    public static void text1 (){
+
+        System.out.println("jah ");
+    }
 }
