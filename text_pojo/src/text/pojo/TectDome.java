@@ -22,4 +22,12 @@ public class TectDome {
 
         System.out.println("jah ");
     }
+    public static void text2 (){
+
+        System.out.println("jah ");
+    }
+    public static void text3 (){
+
+        System.out.println("jah ");
+    }
 }
